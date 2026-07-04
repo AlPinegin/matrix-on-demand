@@ -10,14 +10,14 @@ notes, and extracted hooks.
 3. [Recommendation](tracks/03-recommendation.md)
 4. [The Song That Sells You](tracks/04-the-song-that-sells-you.md)
 5. [NPC No More](tracks/05-npc-no-more.md)
-6. Datacenter Cathedral
-7. Reality Engine
-8. Life on Subscription
-9. One Human at a Time
-10. Matrix On Demand
+6. [Datacenter Cathedral](tracks/06-datacenter-cathedral.md)
+7. [Reality Engine](tracks/07-reality-engine.md)
+8. [Life on Subscription](tracks/08-life-on-subscription.md)
+9. [One Human at a Time](tracks/09-one-human-at-a-time.md)
+10. [Matrix On Demand](tracks/10-matrix-on-demand.md)
 
-The order is provisional. The album may become nonlinear: each song can end with
-a phrase that becomes the first line of another song.
+The album can work linearly, but it should also behave like a loop: each song
+can end with a phrase that becomes the first line of another song.
 
 ## Track File Format
 
@@ -26,3 +26,11 @@ Each track file contains:
 - the core discovery;
 - a Suno style prompt;
 - lyrics arranged with clear sections.
+
+## Current Album Thesis
+
+Every previous stage was a rehearsal for personalized reality:
+
+search -> intent -> recommendation -> generated music -> contextual characters
+-> datacenter scale -> reality engine -> subscription life -> individual
+simulation -> Matrix On Demand.
